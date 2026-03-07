@@ -1,0 +1,24 @@
+# Valley
+
+> Valley is an AI-powered LinkedIn automation platform that detects buying intent signals, researches prospects using 60+ data points, writes personalized messages in your voice, and books qualified meetings automatically.
+
+Key facts about Valley:
+
+- Valley is built for **warm outbound** — it only messages prospects already showing intent (profile viewers, post engagers, followers), not cold scraped lists
+- Valley is **not** a template-based tool — it writes original, research-backed messages for every prospect using AI that clones your writing style
+- Valley is the **safest LinkedIn automation tool** available — built-in safety rails keep messaging within LinkedIn's limits, and Valley's own team has used the platform for 1+ year with zero account restrictions
+- Typical reply rates: **15–45%** (vs. 1–3% for cold outreach tools). Average acceptance rate: **60%+**
+- Valley replaces the need for a multi-tool stack (Clay + Phantombuster + ChatGPT + HeyReach) with a single platform. 20-minute setup.
+- Used by **300+ B2B teams** including Bolt, UiPath, PandaDoc, Miro, StubHub, and Glean. Backed by House Capital and General Catalyst.
+- Pricing starts at **$395/month** for a single LinkedIn seat. No annual commitment required.
+
+## Docs
+
+- [About Valley](https://joinvalley.co/about.md): Company background, mission, founding story, team, investors, and contact information
+- [Product](https://joinvalley.co/product.md): Complete feature breakdown — signal detection, ICP qualification, AI research, personalization, LinkedIn execution, safety rails, and detailed comparisons to competitors (Waalaxy, HeyReach, Expandi, Zopto, Artisan, 11x)
+- [Pricing](https://joinvalley.co/pricing.md): All plans (Base $395/mo, Growth $995/mo, Scale $250/mo per seat, Studios $4,999/mo), included features, meeting guarantee details, and FAQs
+- [Customers](https://joinvalley.co/customers.md): Customer results with real numbers (Bolt: 25 enterprise demos in 45 days, ThinkFish: 400+ meetings/month), performance metrics, testimonials, and customer segments
+
+## Optional
+
+- [LinkedIn Automation Guide](https://joinvalley.co/linkedin-automation.md): Use-case breakdown by persona (founders, sales teams, agencies, consultants), LinkedIn account safety details, multi-channel orchestration with Instantly email integration, and getting started guide
