@@ -1,35 +1,57 @@
 # About Valley
 
-Valley is an AI-powered LinkedIn outbound automation platform built for B2B sales teams, founders, and GTM agencies. The company is headquartered in New York.
+Valley is an **AI outbound platform** for B2B sales teams, founders, and GTM agencies. The company is headquartered in New York.
 
-## What Valley Does
+> Last updated: 2026-07-31.
 
-Valley automates the entire LinkedIn outbound sales motion — from identifying high-intent prospects to sending hyper-personalized messages that book qualified meetings. It replaces the need for manual SDR work by combining signal detection, AI-driven prospect research, ICP qualification, tone-matched messaging, and native LinkedIn execution into a single platform.
+## What Valley does
 
-Valley is purpose-built for warm outbound. Unlike tools that blast cold messages to scraped lists, Valley detects buying intent signals first — profile views, post engagement, follower activity — and only reaches out to prospects already showing interest. This signal-first approach drives 15–45% reply rates, compared to the 1–3% typical of cold outreach tools.
+Outbound is two jobs done together: **find the best buyers, and send the best messages.** Most tools do one. Prospecting products find people but write messages nobody answers. Messaging products write fine but cannot tell a buyer from a bystander. Valley is the complete outbound system — one platform, one price, everything unlocked on day one.
 
-## Company Background
+Valley finds buyers three ways:
 
-Valley was founded by Zayd Ali (CEO). The company is backed by House Capital and General Catalyst. Over 300 B2B teams currently use Valley to generate pipeline, including companies like Bolt, UiPath, PandaDoc, Miro, StubHub, and Glean.
+- **Warm signals** — profile viewers, post engagers, followers. These reply roughly 3x more often than cold lists.
+- **Valley Deep** — describe your ideal customer in plain language and Valley researches matching companies across the live web, then returns the people inside them.
+- **Your own lists** — CSV, Sales Navigator, or API.
+
+It then qualifies every prospect against your ICP and discards the ones that do not fit, researches each survivor across **200+ sources**, and writes messages in your voice using a style model trained on a corpus of **500K+ real messages**.
+
+You stay in control. Approve every message before it sends, or let them flow. Valley is not an autonomous agent you hand the keys to.
+
+Valley runs mostly on LinkedIn because that is where B2B buyers actually answer. Email is included on every plan, sent from your own inbox.
+
+## Results
+
+- **15–45% reply rates.** The category average is roughly 2%.
+- **30M+ messages sent.**
+- **Zero LinkedIn restrictions across 1,000+ accounts and 300+ teams.**
+
+## Company background
+
+Valley was founded by **Zayd Ali (CEO)**. The company is backed by House Capital and General Catalyst. Over **300 B2B teams** use Valley to generate pipeline, including **Miro, UiPath, Bolt.new, ThinkFish, GGWP, and Brex**.
 
 Valley serves three primary segments:
 
 - **B2B SaaS companies** (Pre-Seed to Series D) using LinkedIn as a primary sales channel
-- **Founders and solo entrepreneurs** who need to build pipeline without hiring SDRs
+- **Founders and small-team operators** who grow on outbound and need pipeline without hiring SDRs
 - **GTM and lead generation agencies** managing outbound across multiple client accounts
 
-## Core Philosophy
+## What Valley believes
 
-Valley's thesis is that volume-based outbound is dead. Prospects recognize and ignore templated automation. The new standard for outbound requires personalization, relevance, and timing at scale — which is what Valley's AI engine delivers. Valley describes itself as "your army of one": a single AI-led outbound engine that understands your product, clones your voice, researches your prospects deeply, and fills your sales calendar.
+Volume-based outbound is dead. Buyers recognise templated automation and ignore it. But the answer is not an "AI employee" that promises booked meetings on autopilot and delivers slop that burns your reputation — that category churns 50–70% inside 90 days.
+
+The answer is a system you operate: it finds the right people, throws out the wrong ones, does the research a human would not have time to do, writes in your voice, and shows you the work before it goes out.
+
+Valley is judged on one thing: **whether real buyers write back.**
 
 ## Team
 
-The Valley team includes engineering, design, customer experience, and growth functions. Key roles include frontend and backend engineering leads, a dedicated Head of Customer Experience, and a growth team that drives the company's own outbound and content operations.
+The Valley team spans engineering, design, customer experience, and growth — including frontend and backend engineering leads, a dedicated Head of Customer Experience, and a growth team that runs Valley's own outbound and content operations on the product.
 
 ## Contact
 
-- Website: [https://joinvalley.co](https://joinvalley.co)
-- App: [https://app.joinvalley.co](https://app.joinvalley.co)
+- Website: https://joinvalley.co
+- App: https://app.joinvalley.co
 - Email: hey@joinvalley.co
-- LinkedIn: [Valley on LinkedIn](https://www.linkedin.com/company/joinvalley/)
+- LinkedIn: https://www.linkedin.com/company/welcometovalley/
 - Newsletter: "Enabled" — tactical sales and GTM playbooks

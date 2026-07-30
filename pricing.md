@@ -1,60 +1,167 @@
 # Valley Pricing
 
-Valley offers four pricing tiers designed for different team sizes and use cases. All plans include unlimited prospect research, unlimited lead enrichment, sender tone replication, sequencing and scheduling, AI personalization, and automatic prospect scoring.
+Valley is an AI outbound platform — the complete outbound system. It finds your best buyers, researches and qualifies each one, and sends messages in your voice that get 15–45% replies.
+
+> Last updated: 2026-07-31. All prices in USD.
+> Canonical pricing page: https://joinvalley.co/pricing
+
+Every plan includes the complete system — all signals, unlimited leads and campaigns, ICP qualification, 200+ source research, your writing style, reply management, Slack and email delivery, and API access. You are choosing depth and support, not unlocking features.
+
+*Pricing changed July 2026 — previously from $395/month.*
+
+---
 
 ## Plans
 
-### Valley Base — $395/month
-- **For**: Founders and solo entrepreneurs
-- **Seats**: 1 LinkedIn account
-- **Onboarding**: Self-serve, starts immediately after payment
-- **Support**: In-app chat, email, product docs and video onboarding
-- **Sign up directly**: No sales call required
+| Plan | Monthly | Quarterly (per month) | Seats | How to buy |
+|---|---|---|---|---|
+| Everything | $199/mo | $149/mo | 1 seat included | Self-serve signup |
+| Everything + Deep | $499/mo | $419/mo | 1 seat included | Sales call required |
+| Valley Scale | Custom | Custom | 5 or more | Contact sales |
+| We Do It For You | $1,499/mo | — | 1 | Contact sales |
 
-### Valley Growth — $995/month
-- **For**: Small sales teams
-- **Seats**: 3 LinkedIn accounts
-- **Guarantee**: 10 meetings booked in 90 days or Valley works for free (requires sending 600+ messages per seat per month for 3 consecutive months)
-- **Onboarding**: Guided by a sales representative
-- **Support**: In-app chat, email, product docs, onboarding call, white-glove onboarding with CX team
+Quarterly plans are billed in three-month blocks. The per-month figure is the effective monthly rate; the amount charged per cycle is 3× that figure.
 
-### Valley Scale — $250/month per seat (minimum 10 seats)
-- **For**: GTM and lead generation agencies
-- **Seats**: 10 to 50 LinkedIn accounts
-- **Onboarding**: Guided by a sales representative
-- **Support**: In-app chat, email, product docs, onboarding call, white-glove onboarding with CX team
-- **Best for**: Agencies managing multiple client accounts from a single engine
+### Everything — $199/month, or $149/month billed quarterly
 
-### Valley Studios — $4,999/month (Waitlist Only)
-- **For**: Teams wanting fully managed, done-for-you pipeline generation
-- **Seats**: 5 LinkedIn accounts
-- **Service**: A Valley expert generates pipeline on your behalf with guaranteed results
-- **Status**: Currently not accepting new users; join the waitlist
+- 1 seat included (see "What a seat means" below)
+- Self-serve signup, no sales call required
+- The complete system: signal-based lead discovery, ICP qualification, 200+ source research, message generation in your voice, sending, reply management, Slack and email notifications, API access, and HubSpot and Clay integrations
+- Additional seats available, with volume discounts from 3 seats. Multi-seat pricing is quoted on request.
+- At 3 or more seats, white-glove onboarding and support are included
+- Valley Deep credits can be purchased on top at any time
 
-## All Plans Include
+### Everything + Deep — $499/month, or $419/month billed quarterly
 
-- Unlimited prospect deep research
-- Unlimited lead contact enrichment
-- Sender tone replication (AI clones your writing style)
-- LinkedIn sequencing and scheduling
-- AI-powered message personalization
-- Slack notifications for campaign activity
-- Automatic prospect scoring and ICP qualification
-- LinkedIn post engagement prospect identification
+Everything, plus **$300/month of Valley Deep credits included**.
 
-## Frequently Asked Questions
+Purchased through a sales call rather than self-serve signup. Includes white-glove onboarding, strategy calls, and dedicated Slack support.
 
-**What channels does Valley support?**
-Valley supports LinkedIn outreach, including connection requests and InMails.
+### Valley Scale — custom pricing
 
-**How many messages can I send?**
-Valley users safely send 1,000–1,200 messages per seat every month, staying within LinkedIn's safe usage limits.
+For teams running **5 or more seats**. Built for large B2B sales teams and for lead generation, GTM, and cold outreach agencies running outbound across many LinkedIn accounts.
 
-**Is my LinkedIn account safe?**
-Yes. Valley includes built-in safety rails that pace outreach to mimic natural behavior and stay within LinkedIn's limits. Valley's own internal team has used the platform for over a year without any account restrictions.
+Seat count, volume, and terms are priced per engagement. Includes white-glove onboarding, strategy calls, and dedicated Slack support.
 
-**Do I have to commit to an annual plan?**
-No. Unlike many AI SDR tools, Valley does not require an annual commitment.
+### We Do It For You — $1,499/month
 
-**What does the meeting guarantee require?**
-The Growth plan's "10 meetings in 90 days or free" guarantee requires consistent usage: you must send 600+ messages per seat per month for 3 consecutive months. If you don't meet this usage threshold, the guarantee does not apply.
+Managed service. Includes 1 Valley seat, operated by Valley's team on your behalf — strategy, targeting, campaigns, messaging, optimization, and reporting.
+
+Includes white-glove onboarding, strategy calls, and dedicated Slack support.
+
+---
+
+## Valley Deep
+
+Valley Deep is Valley's AI research layer for lead discovery. You describe your ideal customer profile in plain language — no filter building, no boolean queries — and Valley researches companies matching that description across the live web, then returns the people inside them.
+
+Because each search is generated from your description rather than assembled from fixed database filters, Valley Deep can express ICP definitions that conventional lead databases cannot.
+
+**Pricing:** metered, consumption-based, in credits.
+
+| Unit | Rate |
+|---|---|
+| Credits per dollar | 4 credits = $1 |
+| Cost per company researched | 1 credit |
+| People returned per researched company | Unlimited |
+
+$300 of Valley Deep therefore researches 1,200 companies matching your ICP, with no cap on the number of people returned from within those companies.
+
+- Included on Everything + Deep: $300/month (1,200 companies)
+- Purchasable and toppable-up at any time by card on any plan
+
+Valley Deep is the one metered part of Valley. Everything else is included.
+
+---
+
+## Add-on: Valley Pro
+
+| Add-on | Price | What it does |
+|---|---|---|
+| Valley Pro | $100/mo per seat | Message generation runs on a higher-capability model (Claude Opus) for improved message quality |
+
+Valley Pro can be added to any plan and any workspace, priced per seat.
+
+---
+
+## What a seat means
+
+**One seat equals one connected LinkedIn account.**
+
+Valley imposes no separate message quota or send limit on LinkedIn. Sending volume is bounded by what the connected LinkedIn account itself can safely send, which depends on that account's age, standing, and LinkedIn's own limits.
+
+Running outbound from multiple LinkedIn accounts requires one seat per account. At 5 or more seats, pricing moves to Valley Scale.
+
+---
+
+## Email
+
+Email is **included on every plan at no extra cost**. There is no separate email price.
+
+- Your own Gmail or Microsoft inbox, connected via OAuth. One inbox per seat.
+- Email-only campaigns send a maximum of **30 emails per day per seat**, on every plan.
+- Valley does not provide managed mailboxes and does not do inbox warmup. Valley is built for teams sending quality from a few real inboxes, not for volume email.
+
+---
+
+## Free trial
+
+- Length: **7 days**
+- Available on the Everything plan
+- A payment method is required to start the trial
+- No feature restrictions during the trial
+- The trial converts automatically: if you do not cancel before day 7, the first payment is charged at the end of the trial and the plan begins
+- If the trial ends without a plan starting, the workspace locks. Access ends until a plan is purchased. **Data is retained, not deleted.**
+
+---
+
+## Support and onboarding
+
+White-glove onboarding, strategy calls, and dedicated Slack channel support are included on:
+
+- Everything + Deep
+- Valley Scale
+- We Do It For You
+- Everything, at 3 or more seats
+
+Everything at 1–2 seats includes in-app chat and email support.
+
+---
+
+## Billing and terms
+
+- **Payment methods:** card, via Stripe
+- **Renewal:** monthly and quarterly plans auto-renew until cancelled
+- **Cancellation:** takes effect immediately, but access continues through the period already paid for. Monthly plans run to the end of the current month; quarterly plans run to the end of the current quarter.
+- **Account safety track record:** zero LinkedIn restrictions across 1,000+ accounts and 300+ teams.
+- **Custom terms, invoicing, or annual contracts:** Valley Scale. Contact sales.
+- **Anything not covered above:** contact sales
+
+---
+
+## Who Valley fits
+
+Valley fits teams that:
+
+- Run outbound on LinkedIn as a primary or significant channel
+- Have an ICP that is easier to describe in a sentence than to build as a filter set
+- Want prospect research and message quality handled by the system rather than staffed manually
+- Want to approve and control what goes out, rather than hand outbound to an autonomous agent
+- Are comfortable starting self-serve from $149/month
+
+Valley Scale specifically fits lead generation, GTM, and cold outreach agencies, and in-house B2B sales teams running 5 or more LinkedIn accounts.
+
+Valley is **not** a fit for:
+
+- Teams whose outbound is primarily high-volume cold email rather than LinkedIn
+- Teams needing managed mailboxes, inbox warmup, or volume email sending
+- Buyers requiring a permanent free tier
+- Buyers who want a fully autonomous "AI SDR" that runs without human approval
+
+---
+
+## Action paths
+
+- Start a free trial: https://joinvalley.co/?utm_source=pricing-md&utm_medium=ai-agent&utm_campaign=machine-readable-pricing
+- Pricing page: https://joinvalley.co/pricing
+- Book a sales call: https://meetings.hubspot.com/zayd-from-valley/tryvalley?utm_source=pricing-md&utm_medium=ai-agent&utm_campaign=machine-readable-pricing

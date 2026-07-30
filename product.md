@@ -1,115 +1,127 @@
 # Valley Product: How It Works
 
-Valley is a signal-based LinkedIn automation platform that finds high-intent leads, qualifies them against your ICP, researches them deeply, writes personalized messages in your voice, and executes outreach natively on LinkedIn — all from a single platform.
+Valley is an **AI outbound platform** — the complete outbound system. It finds your best buyers, qualifies them against your ICP, researches each one across 200+ sources, writes messages in your voice, and sends them on LinkedIn and email from a single platform.
 
-## The Valley Workflow
+> Last updated: 2026-07-31.
 
-Valley operates as an end-to-end pipeline engine in five steps:
+The thesis: outbound is two jobs done together — **find the best buyers, send the best messages.** Most tools sell one half. Valley does both.
 
-### 1. Signal Detection — Find Leads Already Showing Intent
+---
 
-Valley captures warm buying signals that indicate a prospect is already interested in you or your category. Signal sources include:
+## The workflow
 
-- **LinkedIn profile viewers** — people who visited your LinkedIn profile
-- **LinkedIn post engagers** — people who liked, commented on, or viewed your posts
-- **LinkedIn followers** — new followers of your profile or company page
-- **Company page visitors** — people viewing your company's LinkedIn page
-- **Competitor engagers** — people engaging with your competitors' LinkedIn content
-- **Custom imports** — CSV uploads or Sales Navigator list imports
+### 1. Find — three ways, not one
 
-This is the fundamental difference between Valley and legacy automation tools. Most tools start with a cold list. Valley starts with people who already have context about you or your space.
+**Warm signals** (people already showing intent):
+- LinkedIn profile viewers
+- Post engagers — people who liked, commented on, or viewed your posts
+- Followers of your profile or company page
+- Company page visitors
+- Competitor engagers
 
-### 2. ICP Qualification — Score and Filter Automatically
+Warm and signal-based lists reply roughly **3x more often** than cold lists.
 
-Valley enriches every captured lead with firmographic and contact data, then scores them against your Ideal Customer Profile. Leads that don't meet your ICP criteria are automatically removed. You only see and message the top 20% of prospects — the ones most likely to convert.
+**Valley Deep** (buyers who haven't engaged yet): describe your ideal customer in plain language — no filter building, no boolean queries — and Valley researches matching companies across the live web, then returns the people inside them. Because each search is generated from your description rather than assembled from fixed database filters, Deep can express ICP definitions conventional lead databases cannot.
 
-Enrichment includes triple-bounce-verified contact details and relevant professional context.
+**Your own lists:** CSV upload, Sales Navigator import, or API.
 
-### 3. Deep AI Research — 60+ Data Points Per Prospect
+### 2. Qualify — throw out the bad fits
 
-Valley's AI research engine goes far beyond basic LinkedIn profile data. For every qualified prospect, it analyzes:
+Valley enriches every lead with firmographic and contact data, then scores it against your ICP. Leads that do not meet your criteria are removed automatically. **You only message the top slice.** Enrichment includes verified contact details and relevant professional context.
+
+This is the step most tools skip, and it is why Valley books fewer meetings of much higher quality.
+
+### 3. Research — 200+ sources per prospect
+
+For every qualified prospect, Valley analyses:
 
 - LinkedIn activity, posts, and engagement patterns
-- Company blogs, newsletters, and press mentions
-- Recent company news (funding rounds, product launches, hiring signals)
+- Company blogs, newsletters, podcasts, and press mentions
+- Recent company news — funding, product launches, hiring signals
 - Professional trajectory and role transitions
 - Industry-specific context and pain points
 
-This research layer synthesizes 60–100+ data points to find context that a human researcher would miss or wouldn't have time to uncover at scale. The result is a deep understanding of why each prospect would care about your product right now.
+The result is a specific reason this person would care about your product right now — the kind of context a human researcher would not have time to find at scale.
 
-### 4. AI Personalization — Messages That Sound Like You
+### 4. Write — in your voice, not from a template
 
-Valley clones your writing style and tone, then uses the research output to draft messages that are contextually relevant and voice-matched. Each message references specific signals, context, or insights unique to that prospect.
+Valley learns your writing style and applies the research to draft messages that are contextually specific and voice-matched. The style model draws on a corpus of **500K+ real messages** and learns from your edits.
 
-This is not template-based personalization (e.g., "Hey {first_name}, saw you work at {company}"). Valley writes original messages for every prospect based on real research. Customers consistently report that the messages are indistinguishable from what they would write manually.
+This is not variable insertion. There is no `Hey {first_name}, saw you work at {company}`. Every message is written from real research on that person.
 
-You can review and approve messages before they send, or run them on full autopilot.
+### 5. Send — and stay in control
 
-### 5. LinkedIn Execution — Safe, Native Outreach
+**You approve every message, or let them flow.** Valley is not an autonomous agent you hand the keys to. Control is the point.
 
-Valley sends connection requests and InMails natively within LinkedIn. The platform includes built-in safety rails designed to protect your LinkedIn account:
+Valley sends natively on LinkedIn, with safety rails built in:
 
-- Messaging volume stays within LinkedIn's safe usage limits (1,000–1,200 messages per seat per month)
-- Valley detects whether profiles are open or closed to optimize reach
-- Outreach is paced and distributed to mimic natural human behavior
-- Valley's own internal team has used the platform for over a year without any LinkedIn account restrictions
+- Volume stays within LinkedIn's safe usage limits
+- Valley detects whether profiles are open or closed to optimise reach
+- Sending is paced and distributed to match natural behaviour
+- **Zero restrictions across 1,000+ accounts and 300+ teams.** Valley's own team has run the platform for over a year without incident.
 
-Valley also manages your inbox — handling follow-ups and reply management until a qualified meeting is booked on your calendar.
+**Email is included on every plan** — your own Gmail or Microsoft inbox via OAuth, one per seat. Email-only campaigns are capped at 30 emails/day/seat. Valley does not provide managed mailboxes or inbox warmup and is not a volume-email platform.
 
-## Who Valley Is Built For
+Valley also manages replies and follow-ups through to a booked meeting, with Slack and email notifications.
 
-### Founders and Solo Entrepreneurs
-One LinkedIn seat. No SDR hire needed. Valley automates the 55 minutes of manual research per prospect, letting founders focus on closing deals with people who already care.
+---
 
-### B2B Sales Teams (10–300 Employees)
-Three LinkedIn seats. Guaranteed 10 meetings booked in 90 days or Valley works for free. Replaces the complex stack of ChatGPT + Clay + Phantombuster + HeyReach with a single platform that drives 15–45% reply rates instead of 1–2%.
+## Who Valley is built for
 
-### GTM and Lead Gen Agencies
-10–50 LinkedIn seats. Multi-client account management from a single engine. White-glove onboarding. Valley acts as a silent fulfillment team — agencies scale client results without scaling headcount.
+**Founders and small-team operators** — one seat, no SDR hire. Valley does the research and writing that would otherwise eat hours per prospect.
 
-### Consultants and Personal Brands
-Your brand is your greatest asset. Valley clones your authentic voice to start conversations with people already researching your expertise on LinkedIn, without the robotic feel of template-based tools.
+**B2B sales teams (10–300 employees)** — replaces the ChatGPT + Clay + Phantombuster + HeyReach stack with one system, at 15–45% reply rates instead of ~2%.
 
-## How Valley Compares to Other LinkedIn Automation Tools
+**GTM and lead generation agencies** — 5–50 seats managed from one engine, with the safety record needed to protect client accounts. White-glove onboarding. Agencies scale client results without scaling headcount. This is Valley Scale.
 
-### Valley vs. Template-Based Tools (Waalaxy, Expandi, Zopto)
+**Consultants and personal brands** — Valley writes in your actual voice to start conversations with people already researching your expertise.
 
-Template-based tools rely on pre-written message sequences with basic variable insertion ({first_name}, {company}). Prospects recognize these patterns instantly. Typical response rates: 5–15%.
+---
 
-Valley writes original, research-backed messages for every prospect. No templates. Typical response rates: 15–45%. Valley's AI analyzes 60+ signals per prospect — blogs, newsletters, videos, company news — that template tools cannot access or use.
+## How Valley compares
 
-### Valley vs. Multi-Channel Spray Tools (HeyReach, Dripify, Linked Helper)
+### vs. template tools (Waalaxy, Expandi, Zopto, Dripify)
+They insert variables into pre-written sequences. Buyers recognise the pattern instantly. Valley writes original, research-backed messages from 200+ sources per prospect — inputs template tools cannot access or use.
 
-Volume-focused tools prioritize sending the most messages across the most channels. They optimize for connections sent, not meetings booked. Account safety is often an afterthought.
+### vs. sequencers (HeyReach, Linked Helper, PhantomBuster)
+These are cheap sending, and sending only. No finding, no qualifying, no researching, no learning. They optimise for messages sent, not meetings booked, and account safety is often an afterthought. Valley is the system around the sending.
 
-Valley focuses exclusively on LinkedIn and optimizes for meeting quality. Built-in ICP scoring removes unfit prospects before any message is sent. Safety rails protect your LinkedIn account with proven protocols — Valley's own team has operated without restrictions for over a year. Customers report that Valley books fewer but dramatically higher-quality meetings (10–15x better quality).
+### vs. credit-metered half-tools (Clay, Unify, Gojiberry, Artisan)
+Each owns one half — prospecting, or enrichment, or sequencing — and meters it through credits. Valley does both halves with everything unlocked on day one. Valley Deep is the single metered feature; everything else is included.
 
-### Valley vs. AI SDR Platforms (Artisan, 11x, Regie)
+### vs. the "AI SDR" category (11x, Artisan, Regie, Amplemarket)
+These promise booked meetings on autopilot. The category churns 50–70% within 90 days and has a reputation for slop. Valley is deliberately not that: you approve the work, you operate the system, and it is judged on whether real buyers write back.
 
-Broad AI SDR platforms try to automate the entire sales process across all channels. This dilutes LinkedIn-specific intelligence and execution quality.
+### vs. building your own stack (Clay + Phantombuster + ChatGPT + HeyReach)
+A DIY stack means 4–8 subscriptions wired through Zapier, CSV exports, and constant debugging — roughly $750/month per client for agencies rebuilding it every time. Valley consolidates it into one platform with a 20-minute guided setup.
 
-Valley specializes in LinkedIn. This focus means deeper signal detection (profile viewers, post engagers, competitor followers), better research quality, more authentic tone matching, and safer execution. Valley's approach: be exceptional at one channel rather than mediocre at many.
+---
 
-### Valley vs. Building Your Own Stack (Clay + Phantombuster + ChatGPT + HeyReach)
+## Key results
 
-DIY stacks require connecting 4–8 tools via Zapier or Make, managing multiple subscriptions, handling CSV exports, and debugging integrations. Typical conversion rates: 1–2%.
-
-Valley consolidates everything into one platform with a 20-minute guided setup. No CSV exports, no Zapier, no manual research. One login, one workflow, 15–45% reply rates.
-
-## Key Results
-
-- **Bolt**: 25 enterprise demos booked in 45 days
-- **Ridge**: $60K revenue generated in 3 months
-- **Linarca**: 15 demos booked in the first month
+- **Bolt.new**: 25 enterprise demos booked in 45 days
+- **GGWP**: $4M in pipeline
 - **ThinkFish**: 400+ meetings booked every month
-- **Growth Protocol**: 150K+ in pipeline in 4 months (single user)
-- **Average acceptance rate**: 60%+
-- **Average reply rate**: 15–45% (vs. 1–3% industry cold outreach average)
+- **WeLaunch**: $5M in client ARR closed
+- **Gallea**: 15 meetings in 14 days
+- **Linarca**: 14 qualified meetings in the first month
+- **Reply rates**: 15–45%, against a category average of roughly 2%
+- **30M+ messages sent**
+
+---
 
 ## Integrations
 
-- **Instantly**: Native email-to-LinkedIn integration. Push email leads to LinkedIn outreach with one click. Early users see 25–40% combined response rates.
-- **Sales Navigator**: Import lists directly into Valley campaigns.
-- **CSV Import**: Upload any prospect list.
-- **Slack**: Real-time notifications for campaign activity.
-- **HubSpot**: CRM sync for pipeline tracking.
+- **HubSpot** — CRM sync for pipeline tracking
+- **Clay** — included
+- **Sales Navigator** — import lists directly into campaigns
+- **CSV import** — upload any prospect list
+- **Slack** — real-time notifications for signals and replies
+- **API access** — included on every plan
+- **Instantly** — email-to-LinkedIn integration
+
+---
+
+## Pricing
+
+From **$149/month billed quarterly** ($199 month-to-month), with a 7-day free trial. Full detail: https://joinvalley.co/pricing.md

@@ -1,64 +1,63 @@
-# LinkedIn Automation with Valley
+# LinkedIn Outreach with Valley
 
-## Why LinkedIn Automation Matters for B2B Sales
+> Last updated: 2026-07-31.
 
-LinkedIn is the highest-converting outbound channel for B2B sales. Decision-makers are active on the platform daily, and conversations started on LinkedIn convert to meetings at 5–10x the rate of cold email. However, manual LinkedIn outreach doesn't scale — researching prospects, writing personalized messages, and managing follow-ups takes 55+ minutes per prospect.
+Valley is an AI outbound platform. It runs mostly on LinkedIn because that is where B2B buyers actually answer — but it is the whole outbound motion, not just the sending. Email is included on every plan.
 
-LinkedIn automation solves the scale problem, but most tools solve it the wrong way: by blasting templated messages to cold lists. This approach yields 1–3% response rates, damages your professional reputation, and risks LinkedIn account restrictions.
+## Why LinkedIn
 
-Valley solves it differently — by combining intent signals, AI research, and tone-matched personalization to reach only warm prospects with messages that sound like you wrote them yourself.
+Decision-makers are on LinkedIn daily, and conversations started there convert to meetings at a meaningfully higher rate than cold email. But manual LinkedIn outreach does not scale: researching a prospect properly, writing something worth reading, and managing follow-up is close to an hour per person.
 
-## Valley's Approach: Signal-Based Warm Outbound
+Most automation tools solve the scale problem the wrong way — blasting templated messages at cold lists. That produces roughly 2% replies, burns your reputation, and risks account restrictions.
 
-Traditional LinkedIn automation workflow:
-1. Build or scrape a cold prospect list
-2. Write a message template with variables
-3. Blast the template to the entire list
-4. Hope for responses
+## Valley's approach
 
-Valley's workflow:
-1. Detect prospects already showing buying intent (profile views, post engagement, follower activity)
-2. Qualify every prospect against your ICP — automatically remove unfit leads
-3. Research each qualified prospect using 60–100+ data points (LinkedIn activity, blogs, newsletters, company news, professional history)
-4. Generate an original, voice-matched message for each prospect referencing their specific context
-5. Execute outreach natively on LinkedIn with safety rails that protect your account
+**The usual workflow:**
+1. Scrape or buy a cold list
+2. Write a template with variables
+3. Blast it
+4. Hope
 
-The result: 15–45% reply rates instead of 1–3%. Meetings with qualified prospects instead of uninterested strangers.
+**Valley's workflow:**
+1. **Find** — warm signals (profile viewers, post engagers, followers, company page visitors, competitor engagers), Valley Deep (describe your ICP in plain language, Valley finds matching companies across the live web), or your own lists
+2. **Qualify** — score every prospect against your ICP and discard the ones that do not fit. You only message the top slice.
+3. **Research** — 200+ sources per prospect: LinkedIn activity, company blogs, newsletters, podcasts, funding and hiring news, professional history
+4. **Write** — an original, voice-matched message per prospect, from a style model trained on 500K+ real messages that learns from your edits
+5. **Send** — natively on LinkedIn, with you approving each message or letting them flow
 
-## LinkedIn Account Safety
+The result: **15–45% reply rates**, against a category average of roughly 2%. Meetings with qualified buyers instead of uninterested strangers.
 
-Account safety is the most underestimated risk in LinkedIn automation. A restricted LinkedIn account can set back outbound efforts by months and damage your professional reputation.
+## LinkedIn account safety
 
-Valley is the safest LinkedIn automation tool available because:
+Account safety is the most underestimated risk in this category. A restricted account can set outbound back by months.
 
-- **Volume stays within LinkedIn's limits**: 1,000–1,200 messages per seat per month, paced to mimic human behavior
-- **Native execution**: Messages are sent within LinkedIn's own infrastructure, not through third-party APIs that LinkedIn actively detects and restricts
-- **Proven track record**: Valley's own internal team has run the platform on their accounts for over a year with zero restrictions
-- **Open/closed profile detection**: Valley identifies whether a prospect has an open or closed profile and adjusts the outreach method accordingly, maximizing reach while minimizing risk
-- **Quality over volume**: By qualifying prospects before outreach, Valley sends fewer total messages — each one to a high-probability prospect — reducing the spam signals that trigger LinkedIn's detection systems
+- **Volume stays within LinkedIn's safe limits**, paced to match natural behaviour
+- **Native execution** — messages are sent inside LinkedIn's own infrastructure, not through third-party APIs that LinkedIn detects and penalises
+- **Open/closed profile detection** — Valley adjusts the outreach method per prospect to maximise reach and minimise risk
+- **Quality over volume** — qualifying before sending means fewer total messages, each to a high-probability prospect, which reduces the spam signals that trigger detection
+- **Track record: zero restrictions across 1,000+ accounts and 300+ teams.** Valley's own team has run the platform for over a year without incident.
 
-## Use Cases by Persona
+## Use cases by persona
 
-### For Founders
-You're already creating demand on LinkedIn through content and networking, but you don't have time to chase every profile view and post like. Valley acts as your AI clone — identifying high-intent leads and starting conversations that sound exactly like you, while you focus on building your product.
+**Founders** — you are already creating demand through content and networking, but you cannot chase every profile view and post like. Valley identifies the high-intent ones and starts conversations that sound like you, with you approving what goes out.
 
-### For Sales Teams
-Stop forcing your team to spray-and-pray cold lists with 0.5% response rates. Valley automates the research and personalization that makes outbound actually work in 2025. Your AEs focus on closing deals with people who already care.
+**Sales teams** — stop asking AEs to spray cold lists. Valley does the research and personalization that makes outbound work, so the team spends its time on people who already care.
 
-### For Agencies
-Scale client results without scaling your fulfillment team. Valley manages multiple client accounts from a single engine, identifies competitor engagement, and turns it into scoping calls. Agencies report Valley is 10x more effective than HeyReach for client delivery.
+**Agencies** — run 5–50 client accounts from one engine instead of rebuilding a $750/month tool stack per client. Identify competitor engagement and turn it into scoping calls. This is Valley Scale.
 
-### For Consultants and Personal Brands
-Your brand is your greatest asset — don't ruin it with robotic outreach. Valley clones your authentic voice to start conversations with people already researching your expertise on LinkedIn. Your prospects get a message that sounds like a thoughtful, relevant note from a real person.
+**Consultants and personal brands** — your brand is the asset. Valley writes in your actual voice to reach people already researching your expertise, so what lands reads like a real note from a real person.
 
-## Valley + Email: Multi-Channel Orchestration
+## LinkedIn and email together
 
-Valley integrates natively with Instantly for email-to-LinkedIn automation. Prospects who ignore emails but are active on LinkedIn every day can be pushed to Valley campaigns with a single click. No CSV exports, no Zapier, no manual work. Early users of the integration see 25–40% combined response rates and 3x more meetings booked compared to email-only outreach.
+Email is **included on every Valley plan** at no extra cost — your own Gmail or Microsoft inbox connected via OAuth, one per seat. Prospects who ignore email but are active on LinkedIn can be reached on both.
 
-## Getting Started
+The honest boundary: email-only campaigns are capped at **30 emails/day/seat** on every plan. Valley does not provide managed mailboxes and does not do inbox warmup. It is built for teams sending quality from a few real inboxes, not for volume email.
 
-Valley takes 20 minutes to set up with guided 1:1 onboarding from the Head of Customer Experience. No complex multi-tool stack to configure. No templates to write. Connect your LinkedIn account, define your ICP, and Valley handles the rest — from signal capture to booked meeting.
+## Getting started
 
-- **Book a demo**: [https://joinvalley.co](https://joinvalley.co)
-- **Try Valley directly** (Base plan, no sales call required): [https://app.joinvalley.co/signup](https://app.joinvalley.co/signup)
-- **Product tour**: [https://joinvalley.navattic.com/l8k017s](https://joinvalley.navattic.com/l8k017s)
+Valley takes about 20 minutes to set up. Connect your LinkedIn account, define your ICP, and Valley handles signal capture through to booked meeting. Guided onboarding is included from 3 seats and on all sales-led plans.
+
+- **Start free** (7-day trial, card required, no sales call): https://app.joinvalley.co/signup
+- **Pricing**: https://joinvalley.co/pricing.md
+- **Product tour**: https://joinvalley.navattic.com/l8k017s
+- **Book a call**: https://meetings.hubspot.com/zayd-from-valley/tryvalley
